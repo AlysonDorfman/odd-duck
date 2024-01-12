@@ -1,7 +1,7 @@
 'use strict';
 
 // *** GLOBAL VARIABLES *** //
-let votingRounds = 5;
+let votingRounds = 25;
 let productArray = []; // to hold all the objects, may not need?
 
 // *** DOM WINDOWS *** //
