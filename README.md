@@ -28,3 +28,6 @@ Notes
     - Button 
     - images
 
+Lighthouse Report: 
+
+![lighthouse report](<Screenshot 2024-01-29 at 11.01.37 AM.png>)
